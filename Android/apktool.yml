@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: voice_commanderapk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '19'
+packageInfo:
+  cur_package: aam.speechtt.app
+  orig_package: aam.speechtt.app
+compressionType: false
